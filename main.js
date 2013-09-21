@@ -45,7 +45,7 @@ function preprocesa()
 		while(ceros.length<costos.length)
 		ceros.push(0);
 		costos.push(ceros);
-		oferta.push(-equilibrio);
+		oferta.push(Math.abs(equilibrio));
 		alert("demanda excedente");
 		}
 	}
