@@ -1,4 +1,4 @@
-Optimizacion Entera y Dinamica
+﻿Optimizacion Entera y Dinamica
 
 ===========================
 
@@ -38,4 +38,4 @@ Ejemplo de otra rama comit 1
 
 Exemplo de cambio para que lo vean otros
 editado
-jsjdjsdjs
+
