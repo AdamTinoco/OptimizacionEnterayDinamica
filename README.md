@@ -35,3 +35,5 @@ el programa acepta texto de la forma:
 Ejemplo de pull request
 
 Ejemplo de otra rama comit 1
+
+Exemplo de cambio para que lo vean otros
